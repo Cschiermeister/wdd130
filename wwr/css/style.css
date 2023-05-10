@@ -35,7 +35,6 @@ main.home-grid {
 div.background {
     height: 725px;
 }
-/* COLORS */
 body {
     background-color: #84A98C;
 }
@@ -93,5 +92,5 @@ footer p a:hover {
     width: 80px;
 }
 #hero-img {
-    width: 100%
+    width: 100%;
 }
