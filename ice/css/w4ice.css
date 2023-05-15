@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+body {
+    background-color: #faa0ce ;
+}
+img{
+    max-width: 20%;
+    margin: auto;    
+}
+#header {
+    color: white;
+}
+#quote {
+    color: white;
+    font-size: xx-large;
+}

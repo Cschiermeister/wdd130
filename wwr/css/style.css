@@ -52,7 +52,8 @@ background-color:#273043;
 color:#FAA916;
 }
 #background {
-    background-color: #273043;
+    height: 725px;
+    background-color: #FAA916;
 }
 .msg {
     background-color: #FAA916;
