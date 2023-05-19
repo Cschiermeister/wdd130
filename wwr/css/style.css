@@ -12,7 +12,7 @@
     margin: 0 auto;
 }
 .home-title {     
-    font-family: "Open Sans", "Montserrat" sans-serif;
+    font-family: "Open sans", "Montserrat", sans-serif;
     color: #273043;
     font-size: 2em;
     margin-top: 10px;
@@ -83,11 +83,13 @@ main section {
 #background {
     height: 725px;
     background-color: #FAA916;
+    margin-bottom: 100px;
 }
 .msg {
     background-color: #FAA916;
     line-height: 1.5em;
     padding: 35px;
+    margin-top: 200px;
 }
 .rivers-card, .camping-card, .rapids-card {
     margin: 200px 0;
@@ -101,7 +103,7 @@ main section {
     padding-top: 10px;
 }
 .msg h2 {   
-    font-family: "Open Sans", "Montserrat" sans-serif; 
+    font-family: "Open Sans", "Montserrat", sans-serif; 
     color:#273043;
 }
 .msg p {
