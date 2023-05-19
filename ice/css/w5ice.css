@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    display: grid;
+}
+.banner {
+    width: 100%;
+}
+.color {
+    background-color: grey;
+    text-align: center;
+    padding: 3%;
+}
+.color img {
+    width: 20%;
+}
+.desk, .graphic, .person {
+    border: 15px solid black;
+    border-radius: 50%;
+}
+.grpahic {
+    margin: 0 5%;
+}
