@@ -34,6 +34,7 @@ h2 {
     align-self: center;
 }
 .logo {
+    width: 80px;
     border-radius: 50%;
 }
 header {
@@ -88,7 +89,7 @@ h4 {
     text-align: center;
 }
 /* MAIN */
-main.home-grid {
+.home-grid {
     display: grid;
     grid-template-columns: repeat(10, 1fr);
 }
